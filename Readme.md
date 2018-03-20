@@ -7,9 +7,9 @@ This is a fork of [ElScreen](http://www.morishima.net/~naoto/elscreen-en/?lang=e
 
 (This is just a private fork.  
 I have added all the pull requests available on Elscreen's original repository.  
-Looks Elscrenn is not maintained anymore but I wanted to use it.
+Looks Elscrenn is not maintained anymore but I wanted to use it.  
 Elscreen does not work on Emacs 25 and Spacemacs 0.200,  
-if you loved or loving elscreen but annoyed by self-pathing job, this fork is for you.)
+if you loved or loving elscreen but annoyed by self-pathing job, this fork is for you.)  
 
 
 Installation
