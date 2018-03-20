@@ -5,7 +5,7 @@ ElScreen private fork
 This is a fork of [ElScreen](http://www.morishima.net/~naoto/elscreen-en/?lang=en)
 
 (This is just a private fork.  
-I have added all the pull requests available on Elscreen's original repository.  
+I have merged all the pull requests available on Elscreen's original repository.  
 Looks Elscreen is not maintained anymore and does not work on Emacs 25 and Spacemacs 0.200.    
 If you love elscreen but annoyed by self-pathing job, this fork is for you.)  
 
