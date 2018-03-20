@@ -23,14 +23,6 @@ For Spacemacs, add
 
 to your dot spacemacs file.
 
-The preferred way to install ElScreen is through
-[MELPA](https://melpa.org/) and `package.el`.  If you have Emacs 24,
-you should already have `package.el`.  To enable MELPA, add something
-like the following in your `.emacs.d` file:
-
-    (add-to-list 'package-archives
-         '("melpa" . "https://melpa.org/packages/") t)
-
 Once you have installed ElScreen, you can activate it like so:
 
     (elscreen-start)
