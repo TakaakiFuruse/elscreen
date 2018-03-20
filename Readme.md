@@ -4,17 +4,24 @@ ElScreen private fork
 
 This is a fork of [ElScreen](http://www.morishima.net/~naoto/elscreen-en/?lang=en)
 
-
 (This is just a private fork.  
 I have added all the pull requests available on Elscreen's original repository.  
-Looks Elscrenn is not maintained anymore but I wanted to use it.  
-Elscreen does not work on Emacs 25 and Spacemacs 0.200,  
-if you loved or loving elscreen but annoyed by self-pathing job, this fork is for you.)  
+Looks Elscreen is not maintained anymore and does not work on Emacs 25 and Spacemacs 0.200.    
+If you love elscreen but annoyed by self-pathing job, this fork is for you.)  
 
 
 Installation
 ------------
 
+For Spacemacs, add
+
+```
+   dotspacemacs-additional-packages '(
+     (elscreen :location (recipe :fetcher github :repo "TakaakiFuruse/elscreen"))
+   )
+```
+
+to your dot spacemacs file.
 
 The preferred way to install ElScreen is through
 [MELPA](https://melpa.org/) and `package.el`.  If you have Emacs 24,
