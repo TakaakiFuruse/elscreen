@@ -8,13 +8,10 @@ updated for Emacs 24 and `package.el`.  ElScreen is an Emacs utility
 with which you can have multiple screens (window-configuration) on
 your GNU Emacs as well as GNU screen on terminal.
 
-If you use emacs-lisp applications which have many windows (like
-Gnus, irchat, Wanderlust, Mew...), ElScreen makes it easy to
-switch to a different screen, with its configuration unchanged.
-You can also create and kill screen, jump to them, rename the
-screen, and so on.
 
-This version of ElScreen does not require any external dependencies.
+This is just a private fork.
+I have added all the pull requests available on Elscreen's original repositories.
+Looks Elscrenn is not maintained anymore but I wanted to use it.
 
 
 Installation
